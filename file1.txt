@@ -1,2 +1,3 @@
 "file number 1" 
 am adaugat eu de pe site
+asta ama daugat eu de pe calc
